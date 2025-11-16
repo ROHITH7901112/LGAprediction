@@ -1,0 +1,4 @@
+LGA-level model evaluation
+MAE: 0.0508
+RMSE: 0.0559
+R2: 0.8233

@@ -1,0 +1,7 @@
+Child-level model evaluation
+ROC AUC: 0.9497338852749851
+Accuracy: 0.7574
+Precision: 0.7574
+Recall: 1.0000
+F1: 0.8620
+Brier score: 0.2132
